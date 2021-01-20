@@ -1,12 +1,16 @@
+text_charset=utf-8
+server_name=Jasimine
 room_id=1
 room_name=Arcadia_01
 UTC=GMT+9:00
 last_chat_time=Fri Nov 19 21:45 2010
+room_user_ID={1,2}
 room_member={Jasmine2015,koko1010}
+room_owner_id=1
 room_owner=Jasmine2015
 chat_room_property=public
 chat_room_status=close
-chat_room_password=
+chat_room_password_exist=no
 chat_room_language=English
 #I try my best to do the data recory. The information is based on Rewrite game version. Futhermore, I refer to the Rewrite animation version to repair timestamp.
 HISTORY:
