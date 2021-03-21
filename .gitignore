@@ -1,5 +1,5 @@
-client/windows/Debug/
-client/windows/Release/
+client/windows/MSVC_DEBUG/*
+client/windows/MSVC_Release/*
 *~
 *.autosave
 *.a
